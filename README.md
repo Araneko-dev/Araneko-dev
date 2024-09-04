@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+I'm a student from Hungary doing my best. Nice to meet you!
 
 <!--
 **Araneko-dev/Araneko-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
